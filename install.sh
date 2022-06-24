@@ -1,6 +1,6 @@
 #!/bin/sh
-print "Mozilla Firefox Installer"
-print "sudo mv firefox-*.tar.bz2 /opt
+echo "Mozilla Firefox Installer"
+echo "sudo mv firefox-*.tar.bz2 /opt
 sudo cd /opt
 sudo tar xvjf firefox-*.tar.bz2
 sudo rm firefox-*.tar.bz2
