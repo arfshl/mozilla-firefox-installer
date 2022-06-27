@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Mozilla Firefox Installler"
-mv firefox-*.tar.bz2 /opt
+wget https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US -P /opt
 cd /opt
 tar xvjf firefox-*.tar.bz2
 rm firefox-*.tar.bz2
