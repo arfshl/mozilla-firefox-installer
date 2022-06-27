@@ -1,4 +1,4 @@
-# mozilla-firefox-installer
+## mozilla-firefox-installer
 Mozilla Firefox installer script
 #### Install Mozilla Firefox
 
