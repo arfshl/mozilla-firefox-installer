@@ -13,4 +13,3 @@ Mozilla Firefox installer script
 
       flatpak install flathub org.mozilla.firefox
 
-## [Official installing guide](https://support.mozilla.org/en-US/kb/install-firefox-linux)
