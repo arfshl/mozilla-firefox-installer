@@ -9,7 +9,7 @@ Mozilla Firefox installer script
 
       flatpak install flathub org.mozilla.firefox
 
-- Snapd
+- Snap
 
       sudo snap install firefox
 
