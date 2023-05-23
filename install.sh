@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Installing Mozilla Firefox..."
-wget https://ftp.mozilla.org/pub/firefox/releases/113.0.1/linux-x86_64/en-US/firefox-113.0.1.tar.bz2 -P ~/
+wget https://ftp.mozilla.org/pub/firefox/releases/113.0.2/linux-x86_64/en-US/firefox-113.0.2.tar.bz2 -P ~/
 cd ~/
 sudo tar xjvf firefox*.tar.bz2
 chmod -R 755 firefox*
