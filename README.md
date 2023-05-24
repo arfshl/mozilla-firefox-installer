@@ -2,7 +2,7 @@
 Mozilla Firefox installer script
 ## Install Mozilla Firefox
 
-    wget https://raw.githubusercontent.com/arfshl/mozilla-firefox-installer/main/install.sh -P ~/ && cd ~/ && sudo sh install.sh
+    wget https://raw.githubusercontent.com/arfshl/mozilla-firefox-installer/main/install.sh -P ~/ && sudo sh ~/install.sh
  
 ## Alternative methods
 - Flatpak
