@@ -1,5 +1,5 @@
 # mozilla-firefox-installer
-Mozilla Firefox for Linux (Latest,non-ESR) installer script
+Mozilla Firefox for Linux (Latest,non-ESR) from mozilla tarball script
 ## Install Mozilla Firefox
 
     wget https://raw.githubusercontent.com/arfshl/mozilla-firefox-installer/main/install.sh -P ~/ && sudo sh ~/install.sh
