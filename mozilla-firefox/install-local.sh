@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Installing Mozilla Firefox..."
-wget https://ftp.mozilla.org/pub/firefox/releases/136.0.2/linux-x86_64/en-US/firefox-136.0.2.tar.xz -P $HOME
+wget https://ftp.mozilla.org/pub/firefox/releases/137.0.1/linux-x86_64/en-US/firefox-137.0.1.tar.xz -P $HOME
 cd $HOME
 tar xvf ~/firefox*.tar.*
 ln -s ~/firefox/firefox ~/.local/bin/firefox
