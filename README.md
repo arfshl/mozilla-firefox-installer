@@ -10,6 +10,6 @@ Personal collection of installer script for tarball linux package
 
 [Mullvad Browser](https://github.com/arfshl/my-tarball-installer/tree/main/mullvad-browser)
 
-[Basilisk Browser](https://github.com/arfshl/my-tarball-installer/tree/main/basilisk-browser)
+[Basilisk Browser](https://github.com/arfshl/my-tarball-installer/tree/main/basilisk)
 
 [Pale Moon](https://github.com/arfshl/my-tarball-installer/tree/main/palemoon)
