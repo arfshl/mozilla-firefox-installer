@@ -2,7 +2,7 @@
 Mullvad Browser for Linux installer script
 ## Install Mullvad Browser
 
-    wget https://github.com/arfshl/my-tarball-installer/blob/main/mullvad-browser/install.sh -P ~/ && sudo sh ~/install.sh
+    wget https://github.com/arfshl/my-tarball-installer/raw/main/mullvad-browser/install.sh -P ~/ && sudo sh ~/install.sh
 
 ### Local Install (At home directory)
 
