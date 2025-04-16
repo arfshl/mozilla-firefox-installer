@@ -2,4 +2,6 @@
 Basilisk browser tarball installer
 ## Install Basilisk
 
-    wget https://raw.githubusercontent.com/arfshl/my-tarball-installer/basilisk/main/install.sh -P ~/ && sudo sh ~/install.sh
+    wget https://github.com/arfshl/my-tarball-installer/blob/main/basilisk/install.sh -P ~/ && sudo sh ~/install.sh
+
+## Local Install (Home Directory)
