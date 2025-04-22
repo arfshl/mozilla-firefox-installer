@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Installing Thunderbird..."
-sudo wget https://ftp.mozilla.org/pub/thunderbird/releases/137.0.1/linux-x86_64/en-US/thunderbird-137.0.1.tar.xz -P /opt
+sudo wget https://ftp.mozilla.org/pub/thunderbird/releases/137.0.2/linux-x86_64/en-US/thunderbird-137.0.2.tar.xz -P /opt
 cd /opt
 sudo tar xvf /opt/thunderbird*.tar.*
 sudo chmod -R 755 /opt/thunderbird*
