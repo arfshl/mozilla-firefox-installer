@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Installing Thunderbird..."
-wget https://ftp.mozilla.org/pub/thunderbird/releases/137.0.2/linux-x86_64/en-US/thunderbird-137.0.2.tar.xz -P $HOME
+wget https://ftp.mozilla.org/pub/thunderbird/releases/138.0/linux-x86_64/en-US/thunderbird-138.0.tar.xz -P $HOME
 cd $HOME
 tar xvf ~/thunderbird*.tar.*
 ln -s ~/thunderbird/thunderbird ~/.local/bin/thunderbird
